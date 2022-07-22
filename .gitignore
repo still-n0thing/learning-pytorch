@@ -2,4 +2,5 @@ venv
 start.ps1
 video.txt
 archieve
-dump.ipynb
+dump
+dump_datasets
